@@ -1,7 +1,7 @@
 # 🧠 Local IT Support AI Agent (Ollama Powered)
 
 A lightweight self-hosted AI assistant designed for IT support and troubleshooting tasks such as network issues, server diagnostics, IP configuration, and general technical support.
-
+ 
 This project runs fully offline using **Ollama** and local LLMs like **Phi-3** or **Qwen2.5 Coder**.
 
 ---
