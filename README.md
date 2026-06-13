@@ -12,7 +12,7 @@ This project runs fully offline using **Ollama** and local LLMs like **Phi-3** o
 - ⚡ Fast response with streaming output 
 - 🧠 IT Support specialized prompting
 - 📋 Structured troubleshooting format:
-  - Problem Summary
+  - Problem Summary  
   - Possible Cause
   - Step-by-step Fix
   - Final Result
